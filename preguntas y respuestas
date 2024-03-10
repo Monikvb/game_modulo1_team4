@@ -13,3 +13,27 @@
 11.	¿Cuál fue la capital original de los Estados Unidos? Respuesta Nueva York
 12.	Si estoy visitando la capital de Bielorrusia, ¿en qué ciudad estoy? Respuesta: Minsk
 13.	¿Verdadero o falso, la cadena montañosa más larga del mundo está bajo el mar? Respuesta Verdadero. La Dorsal Medio-Oceánica se extiende a lo largo del fondo del océano a lo largo de los límites de las placas tectónicas, alcanzando aproximadamente 65 mil km.
+
+
+
+
+Usuario = input(“ ¿Quieres jugar?”)
+Nombre_de_usuario = input(“introduce tu nombre”)
+if usuario = "yes"
+print()
+
+inicio = input("Bienvenido, este es el juego de preguntas y respuestas. Para ganar tienes que contestar correctamente 3 de las 5 preguntas. Tienes 3 intentos por pregunta. ¿Quieres jugar? yes/no")
+while
+If inicio == "yes"
+
+    print("¿Cuál es la capital de China?": "Pekin",)
+
+else: #sería que pusiese no
+    print("ok, vuelve cuando quieras jugar")
+
+preguntas_respuestas = {"¿Cuál es la capital de China?": "Pekin",
+    "¿Cuál es el río más grande de Africa?": "Nilo",
+    "¿Cuál es el río más grande de España?": "Tajo",
+    "Donde desemboca el río Amazonas?": "Oceano Atlantico",
+    "¿Cuál la comunidad mas pequeña de España?": "Ceuta" }
+preguntas_respuestas
