@@ -1,12 +1,11 @@
 ## ¿Quiénes somos?
-    Somos el equipo 4Data Analitycs, nuestra empresa estña formada por Mónica, Teresa, Vanesa y Sara, mujeres que están decididas a abrirse camino en el mundo del Data
-## Situación
-    La empresa Adalab se ha puesto en contacto con nosotras con un objetivo, el de crear tres juegos para que su cartera de usuarios tengan mas posibilidades de ocio. 
-    Los juegos que nos han pedido crear son: 
+    Somos el equipo 3Data Analytics, empresa formada por Mónica, Teresa y Vanesa, mujeres que están decididas a abrirse camino en el mundo del Data, creamos juegos interactivos y dinámicos para todo tipo de clientes.
+## Nuestro cliente
+    La empresa Adalab se ha puesto en contacto con nosotras el 2 de Febrero con un objetivo, el de crear tres juegos para que su cartera de usuarios tenga mas posibilidades de ocio:
     - Piedra, papel y tijera. 
-    -Preguntas y respuestas. 
-    -Ahorcado 
+    - Preguntas y respuestas. 
+    - Ahorcado.
 ## Duración del proyecto
-    El 2 de febrero se pusieron en contacto con nosotras para creaar el proyecto que está definido en dos sprints. La entrega se realizará al cliente el martes 2 de Abril.
-    ## ¿Cómo lo haremos?
-    Como pioneras en el uso de Python realizaremos el código con esta herramienta de programación, y utilizaremos el VS Code para desarrollar el código.
+    Entrega final el 2 de Abril, se realizarón reuniones previas de avances con el cliente para determinar cambios o seguir con los requerimientos solicitados.
+## ¿Cómo lo hemos hecho?
+    Como pioneras en el uso de Python, se diseño el código y la estructura con este lenguaje de programación, se utilizo VSCode para desarrollar el código e interactuar con el juego, ya que era efectivo testear cada linea de código.
