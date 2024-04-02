@@ -1,7 +1,7 @@
 ## ¿Quiénes somos?
     Somos el equipo 3Data Analytics, empresa formada por Mónica, Teresa y Vanesa, mujeres que están decididas a abrirse camino en el mundo del Data, creamos juegos interactivos y dinámicos para todo tipo de clientes.
 ## Nuestro cliente
-    La empresa Adalab se ha puesto en contacto con nosotras el 2 de Febrero con un objetivo, el de crear tres juegos para que su cartera de usuarios tenga mas posibilidades de ocio:
+    La empresa Adalab se ha puesto en contacto con nosotras el 2 de Febrero con un objetivo, el de crear tres juegos para que su cartera de usuarios tenga más posibilidades de ocio:
     - Piedra, papel y tijera. 
     - Preguntas y respuestas. 
     - Ahorcado.
